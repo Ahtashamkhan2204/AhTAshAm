@@ -301,7 +301,6 @@ def pilih_super():
 
 	jalan('                    \033[1;91mAhTAshAm start cloning Wait...')
 	print  "  \033[1;36;48m ●〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️🆒🆒🆒〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️●" 
-	print  "  \033[1;31;48m ➕➖➕➖➕➖➖➕➖➕➖➕➖➕➖➕➖➕➖➕➖➕➖➕➗➕➕➕➖➕➖➖‼️
 
 	def main(arg):
 		global cekpoint,oks
